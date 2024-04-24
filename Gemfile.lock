@@ -1,5 +1,5 @@
 GEM
-  remote: https://api.rubygems.org/
+  remote: https://rubygems.org/
   specs:
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
@@ -81,7 +81,7 @@ GEM
     public_suffix (3.0.0)
     rainbow (2.2.2)
       rake
-    rake (12.1.0)
+    rake (13.2.1)
     rspec (3.6.0)
       rspec-core (~> 3.6.0)
       rspec-expectations (~> 3.6.0)
